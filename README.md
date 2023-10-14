@@ -1,5 +1,5 @@
-# tdt4109
-Her finner dere oppgaver og løsninger til tidligere eksamener.
-Nå ligger bare kont2023 her, de andre vil kopieres inn etterhvert.
+# TDT4109 tidligere eksamener
 
--Børge
+En oversikt over alle eksamene finnes [her](tidligere_eksamener.ipynb).
+
+Skulle du finne noen feil, så send gjerne en mail til *tdt4109-undass@idi.ntnu.no*.

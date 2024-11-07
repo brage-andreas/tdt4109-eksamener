@@ -1,2 +1,2 @@
 Dette er listen over ting som er pakket!
-Børge:jakke,ost,melk,Ole:ost,Anna:ost,paprika
+Børge:jakke,ost,Ole:ost,Anna:ost,paprika

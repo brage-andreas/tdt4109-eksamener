@@ -1,5 +1,7 @@
 # TDT4109 tidligere eksamener
 
+Denne er litt utdatert mtp navn på noen filer. Bare klikk dere inn på riktig eksamen, dere.
+
 | Eksamen | Programmerings-oppgaver i Jupyter | Oppgaver | Løsningsforslag | Kommentar |
 | --- | --- | --- | --- | --- |
 | TDT4109 2024 Kont | [Jupyter Notebook](eksamen_kont_2024/TDT4109%20kont24.ipynb) | [PDF](eksamen_kont_2024/tdt4109_s24_eksamen.pdf) | [PDF (teori-del)](eksamen_kont_2024/tdt4109_kont_2024_LF.pdf),<br /> [Jupyter Notebook](eksamen_kont_2024/TDT4109%20kont24_LF.ipynb) | |
